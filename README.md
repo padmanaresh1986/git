@@ -62,7 +62,7 @@ To merge changes with out history use git rebase
 >git rebase develop  
 
 To get the latest changes from remote repository and commit in local repository  
-git pull  
+>git pull  
  
 To get the latest changes from remote repository and not commit in local repository  
 developer has to decide which files need to commit in local repo  
